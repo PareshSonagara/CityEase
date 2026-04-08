@@ -1,0 +1,25 @@
+{
+  "name": "cityease",
+  "version": "1.0.0",
+  "description": "CityEase — A full-stack urban services platform for Indian cities. Built with React + Express.",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n SERVER,CLIENT -c cyan,magenta \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server && node index.js",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && node index.js",
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "lint": "cd client && npm run lint"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": ["smart-city", "urban-services", "react", "express", "india", "multilingual"],
+  "author": "CityEase Team",
+  "license": "MIT"
+}

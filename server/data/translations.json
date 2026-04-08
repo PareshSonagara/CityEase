@@ -1,0 +1,130 @@
+{
+  "nav": {
+    "services": "Services",
+    "howItWorks": "How It Works",
+    "emergency": "🚨 Emergency",
+    "aiAssistant": "AI Assistant",
+    "dashboard": "My Dashboard",
+    "language": "EN"
+  },
+  "hero": {
+    "badge": "Smart City Services — Live & Updated",
+    "heading1": "Your City.",
+    "heading2": "One Platform.",
+    "heading3": "Zero Confusion.",
+    "subtext": "CityEase brings all urban services together — transport, healthcare, utilities, government schemes, and more — in one friendly, accessible place.",
+    "searchPlaceholder": "Try: \"How to apply for birth certificate\" or \"Pay electricity bill\"…",
+    "searchBtn": "Search",
+    "popular": "Popular:",
+    "stats": {
+      "services": "Services",
+      "citizensHelped": "Citizens Helped",
+      "languages": "Languages",
+      "available": "Available"
+    }
+  },
+  "services": {
+    "sectionBadge": "All Services",
+    "heading": "Everything You Need,",
+    "subtext": "From paying bills to tracking buses — access every urban service without stepping out.",
+    "exploreBtn": "Explore →"
+  },
+  "modal": {
+    "cost": "Cost",
+    "time": "Time",
+    "mode": "Mode",
+    "stepsTitle": "Step-by-Step Process",
+    "docsTitle": "Required Documents",
+    "applyBtn": "Apply / Access Now →",
+    "askBtn": "Ask Sakhi for Help"
+  },
+  "chatbot": {
+    "sectionBadge": "AI Assistant",
+    "heading": "Meet Sakhi — Your City Guide",
+    "subtext": "Ask questions in English, Hindi, or Gujarati. Get instant, accurate guidance on any city service.",
+    "status": "Online — Ready to Help",
+    "placeholder": "Type your question… (English, हिंदी, ગુજરાતી)",
+    "greeting": "Hello! I'm Sakhi, your personal City Guide. I can help you with any urban service. What do you need today?"
+  },
+  "emergency": {
+    "sectionBadge": "Emergency",
+    "heading": "🚨 Emergency Quick Access",
+    "subtext": "One tap to reach critical services. Available 24/7.",
+    "callNow": "Call Now"
+  },
+  "dashboard": {
+    "sectionBadge": "Your Hub",
+    "heading": "Track Everything in Your",
+    "subtext": "Manage applications, bills, alerts, and service history in one view.",
+    "welcome": "Good Evening",
+    "addService": "+ Add Service",
+    "applications": "Applications",
+    "activeLabel": "Active",
+    "upcomingBills": "Upcoming Bills",
+    "dueLabel": "Due",
+    "reminders": "Reminders",
+    "pendingLabel": "Pending",
+    "liveTransit": "Live Transit",
+    "liveLabel": "LIVE",
+    "payBtn": "Pay",
+    "paidBtn": "Paid ✓",
+    "nav": {
+      "overview": "Overview",
+      "applications": "My Applications",
+      "payments": "Payments",
+      "reminders": "Reminders",
+      "transport": "Transport",
+      "settings": "Settings"
+    }
+  },
+  "howItWorks": {
+    "sectionBadge": "Simple Process",
+    "heading": "How",
+    "subtext": "Three simple steps from confusion to clarity. No middlemen. No queues.",
+    "steps": [
+      {
+        "num": "01",
+        "icon": "🔍",
+        "title": "Search or Browse",
+        "desc": "Type your query in plain language or browse services by category.",
+        "example": "\"How do I apply for a ration card?\""
+      },
+      {
+        "num": "02",
+        "icon": "📋",
+        "title": "Follow Step-by-Step Guide",
+        "desc": "Get clear instructions with required documents, costs, and timelines.",
+        "example": "Documents needed, time: 7 days, cost: Free"
+      },
+      {
+        "num": "03",
+        "icon": "✅",
+        "title": "Track & Complete",
+        "desc": "Apply online directly or know exactly where to go. Track your progress live.",
+        "example": "Application #2024-8391 — In Review"
+      }
+    ]
+  },
+  "location": {
+    "sectionBadge": "Near You",
+    "heading": "Services",
+    "subtext": "Find hospitals, offices, transport, and centers near your location.",
+    "enableLocation": "📍 Use My Location",
+    "mapLabel": "Interactive Map — Enable Location for Personalization",
+    "directionsBtn": "Directions"
+  },
+  "footer": {
+    "tagline": "Simplifying city life for every citizen.",
+    "services": "Services",
+    "support": "Support",
+    "about": "About",
+    "getApp": "Get the App",
+    "appSubtext": "Available on Android and iOS",
+    "copyright": "© 2026 CityEase. A Smart City Initiative. All rights reserved.",
+    "badges": [
+      "🇮🇳 Digital India",
+      "🏙️ Smart Cities Mission",
+      "♿ WCAG 2.1 AA"
+    ]
+  }
+}

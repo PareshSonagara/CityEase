@@ -1,0 +1,356 @@
+[
+  {
+    "id": "birth-certificate",
+    "category": "municipal",
+    "icon": "📄",
+    "color": "#06B6D4",
+    "cost": "Free (within 21 days) / ₹50",
+    "time": "7–10 days",
+    "mode": "Online + Offline",
+    "documents": [
+      "Hospital birth record / discharge summary",
+      "Parents Aadhaar card copies",
+      "Parents marriage certificate",
+      "Address proof"
+    ],
+    "steps": [
+      "Visit CityEase and search Birth Certificate or click Municipal Services.",
+      "Fill the online application form with child and parent details.",
+      "Upload scanned copies of required documents (PDF or JPG, max 2MB each).",
+      "Pay the fee online via UPI or Net Banking if birth is after 21 days.",
+      "Receive application reference number via SMS or Email.",
+      "Track status — certificate delivered by post or available for download."
+    ],
+    "tags": [
+      "certificate",
+      "municipal",
+      "document",
+      "birth"
+    ],
+    "officeLocations": [
+      "Municipal Corporation Office",
+      "Taluka Office",
+      "Online Portal"
+    ],
+    "name": "Birth Certificate",
+    "description": "Apply for official birth certificate from municipal corporation."
+  },
+  {
+    "id": "electricity-bill",
+    "category": "utilities",
+    "icon": "💡",
+    "color": "#F59E0B",
+    "cost": "Bill amount only",
+    "time": "Instant",
+    "mode": "Online",
+    "documents": [
+      "Consumer number (on your bill)",
+      "Registered mobile number"
+    ],
+    "steps": [
+      "Click Utility Payments from the services menu.",
+      "Select Electricity and choose your provider (MSEDCL, DGVCL, PGVCL etc.).",
+      "Enter your Consumer Number from your electricity bill.",
+      "View outstanding amount, due date, and bill history.",
+      "Click Pay and choose UPI, Debit/Credit Card, or Net Banking.",
+      "Download receipt instantly — payment reflects within 24 hours."
+    ],
+    "tags": [
+      "electricity",
+      "bill",
+      "payment",
+      "utility",
+      "msedcl",
+      "dgvcl"
+    ],
+    "officeLocations": [
+      "Online only",
+      "Bill Payment Centers"
+    ],
+    "name": "Electricity Bill Payment",
+    "description": "Pay your electricity bill online instantly from home."
+  },
+  {
+    "id": "water-bill",
+    "category": "utilities",
+    "icon": "💧",
+    "color": "#3B82F6",
+    "cost": "Bill amount only",
+    "time": "Instant",
+    "mode": "Online + Offline",
+    "documents": [
+      "Water account number",
+      "Registered mobile number"
+    ],
+    "steps": [
+      "Go to Utility Payments and select Water.",
+      "Select your municipality such as PCMC, AMC or VMC.",
+      "Enter your Water Account Number.",
+      "View bill and pay via UPI or Card.",
+      "Receive SMS confirmation."
+    ],
+    "tags": [
+      "water",
+      "bill",
+      "payment",
+      "utility",
+      "pcmc",
+      "amc"
+    ],
+    "officeLocations": [
+      "Online",
+      "Municipal Bill Centers"
+    ],
+    "name": "Water Bill Payment",
+    "description": "Pay municipal water supply bills online quickly."
+  },
+  {
+    "id": "ration-card",
+    "category": "documents",
+    "icon": "🛒",
+    "color": "#10B981",
+    "cost": "Free",
+    "time": "15–30 days",
+    "mode": "Online + Offline",
+    "documents": [
+      "Aadhaar card (all family members)",
+      "Address proof",
+      "Income certificate",
+      "Family photo passport size"
+    ],
+    "steps": [
+      "Visit nfsa.gov.in or the state food portal.",
+      "Select Apply for New Ration Card.",
+      "Fill family details — head of household, members, income.",
+      "Upload Aadhaar, address proof, and family photo.",
+      "Submit and note the application number.",
+      "Inspector visits for verification.",
+      "Card issued and delivered within 30 days."
+    ],
+    "tags": [
+      "ration",
+      "card",
+      "food",
+      "document",
+      "bpl"
+    ],
+    "officeLocations": [
+      "Taluka Food Office",
+      "Online Portal"
+    ],
+    "name": "Ration Card",
+    "description": "Apply for new ration card or make changes to existing one."
+  },
+  {
+    "id": "bus-routes",
+    "category": "transport",
+    "icon": "🚌",
+    "color": "#4F6EF7",
+    "cost": "₹10–₹50 per trip / Monthly Pass ₹300",
+    "time": "Pass: 3–5 days",
+    "mode": "Online + Physical",
+    "documents": [
+      "Photo ID",
+      "Address proof for pass",
+      "Photo for pass"
+    ],
+    "steps": [
+      "Search for your route using From and To fields.",
+      "View all available buses, timings, and number of stops.",
+      "For monthly pass click Apply for Pass and fill the form.",
+      "Upload photo and ID proof.",
+      "Pay online and collect pass from nearest depot."
+    ],
+    "tags": [
+      "bus",
+      "transport",
+      "route",
+      "pass",
+      "metro",
+      "commute"
+    ],
+    "officeLocations": [
+      "Bus Depots",
+      "Online"
+    ],
+    "name": "Bus Routes and Pass",
+    "description": "Find bus routes, track live bus locations, and apply for travel passes."
+  },
+  {
+    "id": "hospital",
+    "category": "health",
+    "icon": "🏥",
+    "color": "#EF4444",
+    "cost": "Free (Govt.) / Nominal charges",
+    "time": "Appointment: Instant | Wait: 30–60 min",
+    "mode": "Online + Walk-in",
+    "documents": [
+      "Aadhaar card",
+      "Abha Health ID optional",
+      "Previous prescriptions if any"
+    ],
+    "steps": [
+      "Search for hospital near me or use the Location Map.",
+      "Select hospital and choose department General or Specialist.",
+      "Pick available date and time slot for OPD.",
+      "Enter Aadhaar number for verification.",
+      "Receive appointment confirmation via SMS.",
+      "Arrive 15 minutes before appointment with Aadhaar and confirmation."
+    ],
+    "tags": [
+      "hospital",
+      "health",
+      "doctor",
+      "opd",
+      "medical",
+      "appointment"
+    ],
+    "officeLocations": [
+      "City General Hospital",
+      "District Hospital",
+      "PHC Centers"
+    ],
+    "name": "Government Hospital",
+    "description": "Find nearest government hospitals and book OPD appointments."
+  },
+  {
+    "id": "aadhaar",
+    "category": "documents",
+    "icon": "🪪",
+    "color": "#7C3AED",
+    "cost": "₹50 per update",
+    "time": "7–14 days",
+    "mode": "Online or Enrollment Center",
+    "documents": [
+      "Current Aadhaar",
+      "Proof of updated info (new address or utility bill)",
+      "Photo ID"
+    ],
+    "steps": [
+      "Visit myaadhaar.uidai.gov.in.",
+      "Login with existing Aadhaar number and OTP.",
+      "Select Update Aadhaar and choose what to update.",
+      "Upload supporting proof document.",
+      "Pay ₹50 via UPI or Card.",
+      "Note Service Request Number (SRN).",
+      "Updated Aadhaar available for download in 7–14 days."
+    ],
+    "tags": [
+      "aadhaar",
+      "id",
+      "identity",
+      "document",
+      "uid"
+    ],
+    "officeLocations": [
+      "Online",
+      "Aadhaar Enrolment Centers",
+      "Post Office"
+    ],
+    "name": "Aadhaar Card Update",
+    "description": "Update address, mobile number, or name on your Aadhaar card."
+  },
+  {
+    "id": "property-tax",
+    "category": "municipal",
+    "icon": "🏠",
+    "color": "#10B981",
+    "cost": "As per assessment",
+    "time": "Instant payment",
+    "mode": "Online",
+    "documents": [
+      "Property account number",
+      "Previous tax receipt optional"
+    ],
+    "steps": [
+      "Select Property Tax from Municipal Services.",
+      "Enter your property account number.",
+      "View outstanding dues and history.",
+      "Select amount and pay via UPI or Card.",
+      "Download receipt with unique transaction ID."
+    ],
+    "tags": [
+      "property",
+      "tax",
+      "municipal",
+      "payment"
+    ],
+    "officeLocations": [
+      "Online",
+      "Municipal Office"
+    ],
+    "name": "Property Tax Payment",
+    "description": "Pay municipal property tax online and view payment history."
+  },
+  {
+    "id": "pm-awas-yojana",
+    "category": "schemes",
+    "icon": "🏘️",
+    "color": "#F97316",
+    "cost": "Free to apply / Subsidy up to ₹2.67 lakh",
+    "time": "60–90 days",
+    "mode": "Online + Common Service Centre",
+    "documents": [
+      "Aadhaar card",
+      "Income certificate",
+      "Bank account details",
+      "No-house declaration affidavit",
+      "Caste certificate if SC/ST"
+    ],
+    "steps": [
+      "Check eligibility — income below ₹3L/6L/12L/18L per category.",
+      "Visit pmaymis.gov.in or nearest CSC.",
+      "Fill application form with family and income details.",
+      "Attach all required documents.",
+      "Application reviewed by block/district authority.",
+      "If approved, subsidy directly credited to bank account."
+    ],
+    "tags": [
+      "housing",
+      "scheme",
+      "government",
+      "awas",
+      "subsidy",
+      "home"
+    ],
+    "officeLocations": [
+      "pmaymis.gov.in",
+      "Common Service Centre",
+      "Block Office"
+    ],
+    "name": "PM Awas Yojana",
+    "description": "Apply for housing assistance under PM Awas Yojana scheme."
+  },
+  {
+    "id": "metro-pass",
+    "category": "transport",
+    "icon": "🚇",
+    "color": "#8B5CF6",
+    "cost": "Recharge: Any amount | Monthly Pass: ₹600–₹1200",
+    "time": "Recharge: Instant | Pass: 1–2 days",
+    "mode": "Online + Metro Stations",
+    "documents": [
+      "Metro card number or Mobile number"
+    ],
+    "steps": [
+      "Select Metro Card Recharge from Transport services.",
+      "Enter your 10-digit metro card number.",
+      "Choose recharge amount or select monthly pass.",
+      "Pay via UPI, Card, or Net Banking.",
+      "Recharge reflects within 15 minutes."
+    ],
+    "tags": [
+      "metro",
+      "transport",
+      "card",
+      "pass",
+      "recharge"
+    ],
+    "officeLocations": [
+      "Online",
+      "Metro Stations"
+    ],
+    "name": "Metro Card and Pass",
+    "description": "Recharge metro card, apply for monthly or quarterly pass online."
+  }
+]
