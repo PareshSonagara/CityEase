@@ -19,7 +19,7 @@
     "stats": {
       "services": "Services",
       "citizensHelped": "Citizens Helped",
-      "languages": "Languages",
+      "cities": "Cities",
       "available": "Available"
     }
   },
@@ -41,9 +41,9 @@
   "chatbot": {
     "sectionBadge": "AI Assistant",
     "heading": "Meet Sakhi — Your City Guide",
-    "subtext": "Ask questions in English, Hindi, or Gujarati. Get instant, accurate guidance on any city service.",
+    "subtext": "Ask questions in English. Get instant, accurate guidance on any city service.",
     "status": "Online — Ready to Help",
-    "placeholder": "Type your question… (English, हिंदी, ગુજરાતી)",
+    "placeholder": "Type your question…",
     "greeting": "Hello! I'm Sakhi, your personal City Guide. I can help you with any urban service. What do you need today?"
   },
   "emergency": {

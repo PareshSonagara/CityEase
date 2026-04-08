@@ -6,7 +6,7 @@ import { useUser } from '../contexts/UserContext'
 const STATS = [
   { target: 200, unit: '+', label: 'services' },
   { target: 12,  unit: 'L+', label: 'citizensHelped' },
-  { target: 3,   unit: '',   label: 'languages' },
+  { target: 50,   unit: '+',  label: 'cities' },
   { target: 24,  unit: '/7', label: 'available' },
 ]
 
